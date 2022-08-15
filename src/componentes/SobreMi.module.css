@@ -1,0 +1,68 @@
+.imagen{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 6em;
+    margin-left: 50%;
+    display: flex;
+}
+.display{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-around;
+    /* margin-left: 20%; */
+    
+    
+}
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-items: flex-end;
+    margin-left: 20%;
+    
+}
+.title{
+    color:white;
+    align-self: center;
+    -webkit-text-stroke: 1px #2a9d8f;
+    font-weight: bold;
+}
+.description{
+    color: #2a9d8f;
+    max-width: 500px;
+    align-items: center;
+    font-weight: bold;
+    
+}
+.back{
+    background-color: white;
+    padding: 5%
+}
+
+.listas{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   margin-top: 5%;
+   border: solid ;
+   border-color:#2a9d8f;
+   padding: 1%;
+   border-radius: 1em;
+   color: #2a9d8f;
+}
+/* .skills{
+    color: #2a9d8f;
+    border: solid ;
+    border-color:#2a9d8f;
+    padding: 1%;
+    border-radius: 1em;
+    width: 300px;
+}
+.experiencias{
+    color: #2a9d8f;
+    border: solid ;
+    border-color:#2a9d8f;
+    padding: 1%;
+    border-radius: 1em;
+    width: 300px;
+} */

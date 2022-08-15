@@ -1,0 +1,13 @@
+.back{
+    background-color: #2a9d8f;
+    padding-top: 20%;
+    padding-bottom: 20% ;
+    margin-bottom: -30px;
+}
+.texto{
+    color:white;
+    display: flex;;
+    flex-direction: column;
+    align-items: center;
+    
+}
